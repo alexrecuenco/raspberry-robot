@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.h": "c",
+        "*.c": "c",
+    },
+    "files.exclude": {
+        "**/*.d": true,
+        "**/*.o": true,
+    },
+}

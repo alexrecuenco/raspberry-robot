@@ -1,0 +1,11 @@
+*.o
+*.d
+
+# Main programs
+main
+calibrate
+speeds
+tests
+
+# Debugging
+core
